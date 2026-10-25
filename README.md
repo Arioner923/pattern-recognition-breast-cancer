@@ -152,7 +152,7 @@ The portfolio version improves the implementation through:
 - training-only feature scaling for supervised learning,
 - correct K-Means cluster-to-class mapping,
 - corrected silhouette analysis,
--  clearer plots and documentation.
+- clearer plots and documentation.
 
 ## Full Report
 
